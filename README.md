@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamed-rifay
-- 👀 I’m interested in Web Development and Android App Development
-- 🌱 I’m currently learning Web and Android App Development
-- 💞️ I’m looking to collaborate on Web based Projects or Android based Projects
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web based project
 - 📫 How to reach me 
 
 <!---
