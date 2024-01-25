@@ -26,7 +26,7 @@ Description of the project, technologies used, and your role.
 
 ## 📈 GitHub Stats
 
-[![RifayJune27](https://github-readme-stats.vercel.app/api?username=mohamed-rifay&show_icons=true&count_private=true&hide=issues&hide_title=true)]
+https://github-readme-stats.vercel.app/api?username=mohamed-rifay&show_icons=true&count_private=true&hide=issues&hide_title=true
 
 ## 🌐 Connect with Me
 
