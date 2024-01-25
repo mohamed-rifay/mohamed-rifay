@@ -30,18 +30,13 @@ Description of the project, technologies used, and your role.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL)
+- [LinkedIn](www.linkedin.com/in/mohamed-rifaym27)
 - [Portfolio/Website](Your Portfolio/Website URL)
-- [Twitter](Your Twitter Profile URL)
 
 ## 📝 Blog and Articles
 
-- [Blog Post 1: Title](Link to Blog Post 1)
-- [Blog Post 2: Title](Link to Blog Post 2)
 
 ## ❤️ Open Source Contributions
 
-- [Repository 1: Name](Link to Repository 1)
-- [Repository 2: Name](Link to Repository 2)
 
 Feel free to reach out, and let's build something amazing together!
