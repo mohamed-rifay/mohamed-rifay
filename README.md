@@ -26,7 +26,7 @@ Description of the project, technologies used, and your role.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RifayJune27](https://github-readme-stats.vercel.app/api?username=RifayJune27&show_icons=true&count_private=true&hide=issues&hide_title=true)]
 
 ## 🌐 Connect with Me
 
