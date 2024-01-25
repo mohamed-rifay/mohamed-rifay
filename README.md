@@ -30,7 +30,7 @@ Description of the project, technologies used, and your role.
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/mohamed-rifaym27)
+- [LinkedIn](www.linkedin.com/in/mohamed-rifaym27/)
 - [Portfolio/Website](Your Portfolio/Website URL)
 
 ## 📝 Blog and Articles
